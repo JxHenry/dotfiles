@@ -3,6 +3,7 @@
 "**********************************************************************
 
 syntax on
+syntax enable
 set ma
 set mouse=a
 set cursorline
@@ -15,7 +16,6 @@ seet nowritebackup
 set noswapfile
 set nu
 set foldlevelstart=99
-syntax enable
 set scrolloff=7
 
 "**********************************************************************
