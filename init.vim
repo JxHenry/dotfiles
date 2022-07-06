@@ -12,7 +12,7 @@ set shiftwidth=4
 set expandtab
 set autoread
 set nobackup
-seet nowritebackup
+set nowritebackup
 set noswapfile
 set nu
 set foldlevelstart=99
