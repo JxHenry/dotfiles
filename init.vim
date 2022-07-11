@@ -41,5 +41,6 @@ Plug 'preservim/NERDTree'
 Plug 'jiangmiao/auto-pairs'
 Plug 'vim-airline/vim-airline'
 Plug 'ctrlpvim/ctrlp.vim'
+Plug 'Yggdroot/indentLine'
 
 call plug#end()
